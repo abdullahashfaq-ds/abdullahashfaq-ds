@@ -1,23 +1,24 @@
-# Hey there! 👋
+<!--Night Owl image-->
+<div><img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"></div>
 
-I am Abdullah Ashfaq, a 6th-semester data science student at Punjab University College of Information Technology (PUCIT). I have a passion for problem-solving, machine learning, and large language models (LLMs), and I am dedicated to honing my skills in the world of data science. I also work as an online Data Science instructor at [Preply](https://preply.com/en/tutor/4594303).
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀʙᴅᴜʟʟᴀʜ!
+*Digital Craftsman (AI/ML Developer, Data Scientist)*
+<br /> 
 
-## About Me
+<!--Start Intro-->               
+<p align="left">I am a Data Scientist passionate about AI/ML, with strong technical skills in programming, data analysis and machine learning. </p>
 
-- 🌆 Based in: Lahore, Punjab, Pakistan
-- 📚 Degree: BS Data Science
-- 🏢 University: Punjab University College of Information Technology
-- 📅 Year: 3rd
-- 📊 Interested in: Data Science, Machine Learning, Deep Learning, and Generative AI
+- ✨ Student of life :)
+- 🏙 Tutor and Mentor at [Preply](https://preply.com/en/tutor/4594303).
+- ❤ Contributing to Open Source.
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+<!--End Intro-->
 
-## Skills
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abdullahashfaqvirk&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="abdullahashfaqvirk" style="padding-right:20px;" />
+</p>
 
-- Programming Languages: Python, JavaScript
-- Web Development: HTML, CSS, Bootstrap, JS, Django, FastAPI
-- Machine Learning: NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, TensorFlow
-- Database Systems: MySQL, SQL Server
-- Version Control: Git
+---
 
-## GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=abdullahashfaq-ds&theme=dark)](https://git.io/streak-stats)
